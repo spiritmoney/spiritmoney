@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spiritmoney
 - 👀 I’m interested in Learning new codes and building new projects 
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on several projects
 - 📫 How to reach me ...
 
 <!---
