@@ -21,7 +21,7 @@ I am a passionate Full Stack Blockchain Engineer and Software Developer with 3 y
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/spiritmoney/
-- Twitter: https://twitter.com/spiritmoneyko
+- Twitter: https://twitter.com/king_odim
 - Portfolio: https://kingodim.vercel.app/
 
 ## 😄 Fun Facts
