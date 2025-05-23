@@ -2,7 +2,7 @@
 
 # Hi there, I'm Kingsley! 👋
 
-I am a passionate Full Stack Blockchain Engineer and Software Developer with 3 years of experience. I enjoy working with cutting-edge technologies to build innovative solutions and scalable applications. My primary focus is on blockchain development, smart contracts, and full-stack web development.
+I am a passionate Full Stack Blockchain Engineer and Software Developer with 4 years of experience. I enjoy working with cutting-edge technologies to build innovative solutions and scalable applications. My primary focus is on blockchain development, smart contracts, and full-stack web development.
 
 ## 🔭 I’m currently working on
 - Building decentralized applications (DApps) using Ethereum and Solidity
